@@ -1,7 +1,7 @@
 <h2>👋 Hi, I’m Bryan</h2>
-- 👀 I’m interested in ReactJS, Java, NodeJS 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ReactJS, Java, NodeJS <br>
+- 🌱 I’m currently learning ... <br>
+- 💞️ I’m looking to collaborate on ... <br>
 - ✉ Reach me bryan.ronnie@verizon.com
 
 
